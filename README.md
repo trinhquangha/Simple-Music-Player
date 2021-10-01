@@ -1,5 +1,5 @@
 # Simple  Music Player
-### Task have completed
+### My tasks have completed in this project
 1. Render songs
 2. Scroll Top
 3. Play/ pause song, seek time
